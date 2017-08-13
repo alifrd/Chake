@@ -7,8 +7,7 @@
 			else{
 				 $("#Menu_Mobile").fadeIn("fast");
 				 $("header").fadeOut("fast");
-				 $(".logo_desktop").fadeOut("fast");
-				 
+			 
 			}
 			});
 
