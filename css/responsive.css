@@ -31,6 +31,9 @@
 }
 
 @media screen and (max-width:480px){	
+	.logo_desktop{
+		display: none;
+	}
 	
 	article.Main div.col_md_12{
 	padding-right: 2%;
