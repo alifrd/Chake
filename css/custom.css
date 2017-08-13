@@ -57,8 +57,9 @@ div.logo_mobile img{
 }
 
 header{
+  	padding: 5% 0% 8%;
 	color: #2B2B2B;
-	text-align: right;
+	text-align: center;
 }
 
 header ul{
