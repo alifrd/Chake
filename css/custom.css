@@ -595,7 +595,7 @@ body.open .menu li:nth-child(6) a {
     color: #fff;
     opacity: 1;
     padding: 30px 35px;
-    font-size: 65px;
+    font-size: 45px;
 		background-color: unset;
 	
 }
@@ -610,7 +610,7 @@ body.open .menu li:nth-child(6) a {
     font-weight: 300;
     text-align: center;
     border: 0px;
-    margin: 20% 0% 15%;
+    margin: 30% 0% 15%;
     outline: none;
 }
 #search input[type="search"]::-webkit-input-placeholder { 
