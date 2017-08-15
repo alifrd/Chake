@@ -596,6 +596,8 @@ body.open .menu li:nth-child(6) a {
     opacity: 1;
     padding: 30px 35px;
     font-size: 65px;
+		background-color: unset;
+	
 }
 
 #search input[type="search"] {
